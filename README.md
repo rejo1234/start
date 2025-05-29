@@ -1,4 +1,4 @@
-Pierwsze zadania z pętlami i tablicamy (choinki, szukanie elementów, zadania matematyczne) są w tym repozytorium
+Pierwsze zadania z pętlami i tablicamy (choinki, szukanie elementów, zadania matematyczne itp.) są w tym repozytorium
 
 
 zadanie 1
