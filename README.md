@@ -1,4 +1,6 @@
-part1
+Pierwsze zadania z pętlami i tablicamy (choinki, szukanie elementów, zadania matematyczne) są w tym repozytorium
+
+
 zadanie 1
 stworz tablice 10 intow i wypełnij ją od 10 do 1
 zadanie 2
