@@ -2,9 +2,11 @@
 takie jak rysowanie choinek i figur geometrycznych, wyszukiwanie elementów czy proste zadania matematyczne.**
 
 **Treści zadań**
-**zadanie 1** stworz tablice 10 intow i wypełnij ją od 10 do 1 zadanie 2 z inputa stworz tablice z inputa np. 66 i do tego dodajemy 10 tablic 67, 68 , 69 , 70 itp. zadanie 3 z inputa dajemy liczbe i ma iść o 2 w dół np podajemy 66 64 62 60 z 10 tablic zadanie 4 wypelnic pierwszą połowe tablic jedynkami (array.legnt) zadanie 5 wypelnic druga połowke jedynkami (array.lenght zadanie 6 wypelnic od konca tablice wartosciami od 20 do 10 array[10] = 20 zadanie 7 z inputa liczba i 9 linijka int[] array = new int[ma byc input]; drugą połowke mam wypelnic 2 wszystko for i while
+**zadanie 1**
+stworz tablice 10 intow i wypełnij ją od 10 do 1 zadanie 2 z inputa stworz tablice z inputa np. 66 i do tego dodajemy 10 tablic 67, 68 , 69 , 70 itp. zadanie 3 z inputa dajemy liczbe i ma iść o 2 w dół np podajemy 66 64 62 60 z 10 tablic zadanie 4 wypelnic pierwszą połowe tablic jedynkami (array.legnt) zadanie 5 wypelnic druga połowke jedynkami (array.lenght zadanie 6 wypelnic od konca tablice wartosciami od 20 do 10 array[10] = 20 zadanie 7 z inputa liczba i 9 linijka int[] array = new int[ma byc input]; drugą połowke mam wypelnic 2 wszystko for i while
 
-**zadanie 1** for i while zadanie 4 for i while funkcja printArray ma nie printować ostatniego przecinka 0, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2,
+**zadanie 1**
+for i while zadanie 4 for i while funkcja printArray ma nie printować ostatniego przecinka 0, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2,
 
 **zadanie1V**
 for ma sie sumować jak 151 1+5+1 petle ktora wyprintuje liczy od 19 do 154 for i while w dwoch petlach
